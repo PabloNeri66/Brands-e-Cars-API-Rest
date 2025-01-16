@@ -8,7 +8,7 @@ Uma API RESTful para gerenciamento de marcas e carros, desenvolvida em Python co
 
 ## Descrição 📋
 
-Este projeto foi desenvolvido com inspiração no canal do YouTube **PyCodeBR**, servindo como uma aplicação prática para o gerenciamento de marcas e carros utilizando Django e Django REST Framework.
+Este projeto foi desenvolvido com inspiração no canal do YouTube **PyCodeBR**, servindo como uma aplicação prática para o gerenciamento de marcas e carros utilizando Django e Django REST Framework, seguindo padrão CRUD.
 
 ## Tecnologias Utilizadas 🛠️
 
